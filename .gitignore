@@ -42,6 +42,9 @@
 *.VC.db
 *.VC.opendb
 
+# MedievalDungeon Assets
+Content/MedievalDungeon/**
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
